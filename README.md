@@ -8,6 +8,9 @@ I'm currently exploring front-end technologies such as HTML, CSS, JavaScript, an
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/faza-farih-riyadi/)
 
+## 🚀 Deploy Project
+https://frontend-beta-eight-77.vercel.app/
+
 ## 🛠️ Tech Stack
 - HTML, CSS, JS
 - Java, NextJs
