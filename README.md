@@ -14,5 +14,6 @@ I'm currently exploring front-end technologies such as HTML, CSS, JavaScript, an
 ## 🛠️ Tech Stack
 - HTML, CSS, JS
 - Java, NextJs
+- C++
 - MySQL
 - Figma (UI/UX Design)
