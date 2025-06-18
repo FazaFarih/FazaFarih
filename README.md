@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hallo I'm Faza 👋
+I'm a Web Development enthusiast currently studying Informatics at Telkom University.
 
-<!--
-**FazaFarih/FazaFarih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fueled by curiosity and a strong desire to grow, I’m passionate about building functional and responsive websites that bring real value to users. I enjoy learning about modern development tools and best practices, and I believe continuous learning is essential in tech.
 
-Here are some ideas to get you started:
+I'm currently exploring front-end technologies such as HTML, CSS, JavaScript, and React, while also learning the basics of back-end development. With every project, I aim to improve both my problem-solving skills and my ability to create clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/faza-farih-riyadi/)
+
+## 🛠️ Tech Stack
+- HTML, CSS, JS
+- Java, NextJs
+- MySQL
+- Figma (UI/UX Design)
