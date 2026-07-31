@@ -6,7 +6,7 @@ Fueled by curiosity and a strong desire to grow, I’m passionate about building
 I'm currently exploring front-end technologies such as HTML, CSS, JavaScript, and React, while also learning the basics of back-end development. With every project, I aim to improve both my problem-solving skills and my ability to create clean, efficient code.
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://https://www.linkedin.com/in/faza-farih-riyadi-22a6052a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fazafarihriyadi)
 
 ## 🚀 Deploy Project
 - https://frontend-beta-eight-77.vercel.app/
